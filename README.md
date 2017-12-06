@@ -1,4 +1,4 @@
-# Lista Duplamente Encadeada
+# Tabela de Dispersão
 
 ## Estrutura de Dados Básicas I
 
